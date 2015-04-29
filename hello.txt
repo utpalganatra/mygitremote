@@ -7,6 +7,7 @@ kaink alag conflic.
 conflict.
 what should i do?
 1
+Merged Line1
 saadu pull
 have conflict nathi
 KKKKKKKKK
