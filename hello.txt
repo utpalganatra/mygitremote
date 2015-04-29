@@ -12,3 +12,4 @@ have conflict nathi
 KKKKKKKKK
 it should conflict
 New line
+Merge Line2
