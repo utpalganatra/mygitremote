@@ -7,3 +7,4 @@ kaink alag conflic.
 conflict.
 what should i do?
 1
+saadu pull
