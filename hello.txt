@@ -9,4 +9,8 @@ what should i do?
 1
 saadu pull
 have conflict nathi
+<<<<<<< HEAD
 KKKKKKKKK
+=======
+it should conflict
+>>>>>>> branch 'master' of https://github.com/utpalganatra/mygitremote.git
