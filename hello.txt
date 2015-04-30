@@ -14,3 +14,5 @@ KKKKKKKKK
 it should conflict
 New line
 Merge Line2
+17
+18
